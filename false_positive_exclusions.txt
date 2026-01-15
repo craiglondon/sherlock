@@ -6,7 +6,6 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
 LushStories
 Minecraft
@@ -21,7 +20,6 @@ Splice
 Spotify
 Trovo
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
