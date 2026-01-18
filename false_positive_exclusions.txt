@@ -3,29 +3,23 @@ Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
-Minecraft
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
