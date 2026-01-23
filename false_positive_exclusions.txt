@@ -6,9 +6,9 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 Hubski
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
