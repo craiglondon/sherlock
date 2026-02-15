@@ -1,8 +1,9 @@
 APClips
 Archive.org
 Code Snippet Wiki
-DeviantArt
+Cracked Forum
 Fandom
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -17,11 +18,11 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
+Wikidot
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
