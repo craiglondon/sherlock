@@ -1,7 +1,5 @@
 APClips
 Archive.org
-Blogger
-Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -17,6 +15,7 @@ RuneScape
 Scribd
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 Trovo
@@ -24,6 +23,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster
