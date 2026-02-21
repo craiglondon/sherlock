@@ -1,7 +1,9 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
 DeviantArt
+Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -9,11 +11,11 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+OurDJTalk
 PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
