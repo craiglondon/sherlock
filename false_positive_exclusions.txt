@@ -1,11 +1,13 @@
 APClips
 Archive.org
+Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
 Realmeye
@@ -18,9 +20,9 @@ Splice
 Spotify
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
