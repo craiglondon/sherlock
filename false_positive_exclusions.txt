@@ -1,6 +1,7 @@
 APClips
 Archive.org
-Eintracht Frankfurt Forum
+Codolio
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -18,10 +19,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
