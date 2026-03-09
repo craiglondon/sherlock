@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Blogger
 Codolio
 DeviantArt
 GNOME VCS
@@ -7,7 +8,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Patched
@@ -29,4 +29,3 @@ YandexMusic
 mercadolivre
 phpRU
 svidbook
-xHamster
