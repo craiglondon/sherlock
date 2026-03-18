@@ -1,13 +1,15 @@
 APClips
 Archive.org
 Codolio
+Cracked Forum
 DeviantArt
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
 PocketStars
 Rarible
@@ -24,5 +26,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
