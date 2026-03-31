@@ -1,7 +1,9 @@
+7Cups
 APClips
 Archive.org
+Blogger
 Codolio
-DigitalSpy
+Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
@@ -29,3 +31,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
+xHamster
