@@ -1,9 +1,10 @@
 7Cups
 APClips
 Archive.org
-Blogger
+CGTrader
 Codolio
 Discord.bio
+Dribbble
 GeeksforGeeks
 Giphy
 Hashnode
@@ -31,5 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
 xHamster
