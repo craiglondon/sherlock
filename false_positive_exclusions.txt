@@ -8,6 +8,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
 Patched
 PocketStars
@@ -17,14 +18,12 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 interpals
@@ -32,3 +31,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
