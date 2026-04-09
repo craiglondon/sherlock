@@ -7,6 +7,7 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
@@ -19,6 +20,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
