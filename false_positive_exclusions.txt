@@ -1,22 +1,18 @@
 7Cups
 APClips
-Academia.edu
 Airliners
-Anilist
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 Discord.bio
-Dribbble
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
 LushStories
-Motherless
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -29,6 +25,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
