@@ -5,7 +5,6 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -14,7 +13,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
 Rarible
 Realmeye
@@ -31,8 +30,10 @@ Velomania
 Weblate
 YandexMusic
 dailykos
+igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
