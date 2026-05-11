@@ -6,13 +6,15 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+Itch.io
+LiveJournal
 LushStories
 Motherless
 Patched
@@ -21,11 +23,13 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
