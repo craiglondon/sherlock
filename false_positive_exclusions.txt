@@ -4,6 +4,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -15,7 +16,6 @@ Hubski
 LessWrong
 LushStories
 Patched
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -24,7 +24,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
