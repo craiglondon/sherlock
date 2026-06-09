@@ -15,8 +15,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
-Open Collective
 Patched
 Rarible
 Realmeye
@@ -34,10 +32,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
