@@ -6,15 +6,17 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
-GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
 LushStories
+NICommunityForum
+OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -23,6 +25,7 @@ Replit.com
 RocketTube
 Scribd
 SlideShare
+SmugMug
 Splice
 Spotify
 Trovo
@@ -35,7 +38,5 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
-phpRU
 svidbook
