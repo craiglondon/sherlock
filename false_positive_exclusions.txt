@@ -2,7 +2,6 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 ArtStation
 Bandcamp
 Codolio
@@ -11,12 +10,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
 LushStories
 Minecraft
-OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -27,7 +26,7 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
