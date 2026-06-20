@@ -16,7 +16,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Odysee
 Patched
 Pornhub
@@ -26,7 +25,6 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
