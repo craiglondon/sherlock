@@ -15,10 +15,10 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Odysee
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,6 +28,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
