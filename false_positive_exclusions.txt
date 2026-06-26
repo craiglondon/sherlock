@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -16,6 +17,7 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 Patched
 Rarible
