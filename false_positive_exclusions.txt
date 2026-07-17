@@ -14,10 +14,8 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Houzz
 Hubski
 LessWrong
-LinkedIn
 LushStories
 Minecraft
 Odysee
@@ -29,7 +27,6 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -44,6 +41,8 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
