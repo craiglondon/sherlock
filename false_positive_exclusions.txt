@@ -14,10 +14,12 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
-LinkedIn
 LushStories
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -30,11 +32,12 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
+Star Citizen
 Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
