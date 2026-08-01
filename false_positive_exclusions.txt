@@ -1,8 +1,8 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -14,8 +14,8 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
@@ -24,7 +24,6 @@ LushStories
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,6 +36,7 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -47,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
