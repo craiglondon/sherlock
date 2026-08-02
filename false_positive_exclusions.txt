@@ -6,6 +6,7 @@ Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -33,6 +34,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 Trovo
 TryHackMe
