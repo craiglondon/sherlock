@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -11,6 +10,7 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -22,9 +22,7 @@ Instapaper
 LessWrong
 LinkedIn
 LushStories
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -38,7 +36,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
