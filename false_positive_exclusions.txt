@@ -10,7 +10,6 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -19,9 +18,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -38,7 +37,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
