@@ -5,14 +5,13 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -21,8 +20,8 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -31,12 +30,13 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
+Slack
 SlideShare
 Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
