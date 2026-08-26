@@ -8,13 +8,14 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
-Cracked Forum
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
@@ -47,5 +48,4 @@ igromania
 interpals
 mercadolivre
 opennet
-phpRU
 svidbook
