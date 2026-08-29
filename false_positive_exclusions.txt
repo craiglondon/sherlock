@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -20,7 +21,6 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LiveJournal
 LushStories
 Odysee
 PCGamer
