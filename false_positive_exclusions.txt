@@ -4,9 +4,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
+BabyRu
 Bandcamp
 Championat
-Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -31,6 +31,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+TikTok
 Trakt
 Trovo
 TryHackMe
