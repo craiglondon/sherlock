@@ -1,12 +1,14 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
-BabyRu
 Bandcamp
 Championat
+Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -19,9 +21,11 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,7 +35,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-TikTok
 Trakt
 Trovo
 TryHackMe
