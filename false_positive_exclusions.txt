@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -32,7 +31,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -54,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
