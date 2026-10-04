@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -15,6 +14,8 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Exposure
+GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
@@ -22,6 +23,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 Linktree
 LushStories
@@ -34,11 +36,11 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -55,3 +57,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
