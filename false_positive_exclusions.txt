@@ -5,12 +5,11 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -24,8 +23,8 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LiveJournal
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -39,7 +38,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -53,5 +51,6 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 social.tchncs.de
 svidbook
