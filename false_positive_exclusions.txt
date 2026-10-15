@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -25,11 +23,11 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -44,6 +42,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+WordPress
 YandexMusic
 authorSTREAM
 dailykos
@@ -55,5 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-threads
-xHamster
