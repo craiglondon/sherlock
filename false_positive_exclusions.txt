@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -23,16 +24,15 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LushStories
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 SlideShare
 Splice
@@ -42,7 +42,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-WordPress
 YandexMusic
 authorSTREAM
 dailykos
