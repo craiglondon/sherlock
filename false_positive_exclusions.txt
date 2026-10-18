@@ -26,6 +26,7 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -55,3 +56,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
