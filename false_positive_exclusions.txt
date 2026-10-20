@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -21,7 +22,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
 Linktree
 LushStories
@@ -29,14 +29,15 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pastebin
 Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 SlideShare
+Snapchat
 Splice
 Spotify
 Trakt
