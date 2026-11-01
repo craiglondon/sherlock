@@ -2,8 +2,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -11,7 +9,6 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gravatar
 HackerNews
 Hashnode
 Hubski
