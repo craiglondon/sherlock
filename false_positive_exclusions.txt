@@ -1,7 +1,6 @@
 APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 Blogger
 Championat
@@ -17,10 +16,10 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -40,8 +39,8 @@ fixya
 hunting
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
