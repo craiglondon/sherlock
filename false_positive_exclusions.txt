@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,9 +16,12 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -41,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
