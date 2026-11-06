@@ -16,12 +16,9 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,6 +28,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+TnAFlix
 TryHackMe
 Velomania
 Vero
