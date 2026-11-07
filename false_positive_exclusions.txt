@@ -1,11 +1,13 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
+CGTrader
 Championat
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -16,6 +18,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -28,7 +31,7 @@ Scribd
 SlideShare
 Splice
 Spotify
-TnAFlix
+Trakt
 TryHackMe
 Velomania
 Vero
