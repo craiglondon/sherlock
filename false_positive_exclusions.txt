@@ -1,7 +1,9 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -9,6 +11,7 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+Gravatar
 HackerNews
 Hashnode
 Hubski
@@ -20,6 +23,7 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -43,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
